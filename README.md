@@ -190,13 +190,17 @@ If you find our work useful, please consider citing our papers:
   year={2025}
 }
 
-@misc{zhao2025smartmultimodalhealthcarecopilot,
-      title={A Smart Multimodal Healthcare Copilot with Powerful LLM Reasoning}, 
-      author={Xuejiao Zhao and Siyan Liu and Su-Yin Yang and Chunyan Miao},
-      year={2025},
-      booktitle={Proceedings of the 34th International Joint Conference on Artificial Intelligence, {IJCAI-25}},
-      eprint={2506.02470},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2506.02470}, 
+@inproceedings{ijcai2025p1278,
+  title     = {A Smart Multimodal Healthcare Copilot with Powerful LLM Reasoning},
+  author    = {Zhao, Xuejiao and Liu, Siyan and Yang, Su-Yin and Miao, Chunyan},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {James Kwok},
+  pages     = {11132--11136},
+  year      = {2025},
+  month     = {8},
+  note      = {Demo Track},
+  doi       = {10.24963/ijcai.2025/1278},
+  url       = {https://doi.org/10.24963/ijcai.2025/1278},
 }
